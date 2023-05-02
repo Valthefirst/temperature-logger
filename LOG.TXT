@@ -1,0 +1,261 @@
+2022-12-10 22:19:0 System started.
+2022-12-10 22:19:0 Reading temperature sensor.
+2022-12-10 22:19:0 Got 14 degrees C.
+2022-12-10 22:19:0 Writing value to SD card.
+2022-12-10 22:19:0 Successfully wrote value to SD card.
+2022-12-10 22:20:0 Reading temperature sensor.
+2022-12-10 22:20:0 Got 15 degrees C.
+2022-12-10 22:20:0 Writing value to SD card.
+2022-12-10 22:20:0 Successfully wrote value to SD card.
+2022-12-10 22:21:0 Reading temperature sensor.
+2022-12-10 22:21:0 Got 15 degrees C.
+2022-12-10 22:21:0 Writing value to SD card.
+2022-12-10 22:21:0 Successfully wrote value to SD card.
+2022-12-10 22:22:0 Reading temperature sensor.
+2022-12-10 22:22:0 Got 15 degrees C.
+2022-12-10 22:22:0 Writing value to SD card.
+2022-12-10 22:22:0 Successfully wrote value to SD card.
+2022-12-10 22:23:0 Reading temperature sensor.
+2022-12-10 22:23:0 Got 14 degrees C.
+2022-12-10 22:23:0 Writing value to SD card.
+2022-12-10 22:23:0 Successfully wrote value to SD card.
+2022-12-10 22:24:0 Reading temperature sensor.
+2022-12-10 22:24:0 Got 14 degrees C.
+2022-12-10 22:24:0 Writing value to SD card.
+2022-12-10 22:24:0 Successfully wrote value to SD card.
+2022-12-10 22:25:0 Reading temperature sensor.
+2022-12-10 22:25:0 Got 14 degrees C.
+2022-12-10 22:25:0 Writing value to SD card.
+2022-12-10 22:25:0 Successfully wrote value to SD card.
+2022-12-10 22:26:0 Reading temperature sensor.
+2022-12-10 22:26:0 Got 14 degrees C.
+2022-12-10 22:26:0 Writing value to SD card.
+2022-12-10 22:26:0 Successfully wrote value to SD card.
+2022-12-10 22:27:0 Reading temperature sensor.
+2022-12-10 22:27:0 Got 14 degrees C.
+2022-12-10 22:27:0 Writing value to SD card.
+2022-12-10 22:27:0 Successfully wrote value to SD card.
+2022-12-10 22:28:0 Reading temperature sensor.
+2022-12-10 22:28:0 Got 14 degrees C.
+2022-12-10 22:28:0 Writing value to SD card.
+2022-12-10 22:28:0 Successfully wrote value to SD card.
+2022-12-10 22:29:0 Reading temperature sensor.
+2022-12-10 22:29:0 Got 14 degrees C.
+2022-12-10 22:29:0 Writing value to SD card.
+2022-12-10 22:29:0 Successfully wrote value to SD card.
+2022-12-10 22:30:0 Reading temperature sensor.
+2022-12-10 22:30:0 Got 14 degrees C.
+2022-12-10 22:30:0 Writing value to SD card.
+2022-12-10 22:30:0 Successfully wrote value to SD card.
+2022-12-10 22:31:0 Reading temperature sensor.
+2022-12-10 22:31:0 Got 14 degrees C.
+2022-12-10 22:31:0 Writing value to SD card.
+2022-12-10 22:31:0 Successfully wrote value to SD card.
+2022-12-10 22:32:0 Reading temperature sensor.
+2022-12-10 22:32:0 Got 14 degrees C.
+2022-12-10 22:32:0 Writing value to SD card.
+2022-12-10 22:32:0 Successfully wrote value to SD card.
+2022-12-10 22:33:0 Reading temperature sensor.
+2022-12-10 22:33:0 Got 14 degrees C.
+2022-12-10 22:33:0 Writing value to SD card.
+2022-12-10 22:33:0 Successfully wrote value to SD card.
+2022-12-10 22:34:0 Reading temperature sensor.
+2022-12-10 22:34:0 Got 14 degrees C.
+2022-12-10 22:34:0 Writing value to SD card.
+2022-12-10 22:34:0 Successfully wrote value to SD card.
+2022-12-10 22:35:0 Reading temperature sensor.
+2022-12-10 22:35:0 Got 14 degrees C.
+2022-12-10 22:35:0 Writing value to SD card.
+2022-12-10 22:35:0 Successfully wrote value to SD card.
+2022-12-10 22:36:0 Reading temperature sensor.
+2022-12-10 22:36:0 Got 14 degrees C.
+2022-12-10 22:36:0 Writing value to SD card.
+2022-12-10 22:36:0 Successfully wrote value to SD card.
+2022-12-10 22:37:0 Reading temperature sensor.
+2022-12-10 22:37:0 Got 14 degrees C.
+2022-12-10 22:37:0 Writing value to SD card.
+2022-12-10 22:37:0 Successfully wrote value to SD card.
+2022-12-10 22:38:0 Reading temperature sensor.
+2022-12-10 22:38:0 Got 14 degrees C.
+2022-12-10 22:38:0 Writing value to SD card.
+2022-12-10 22:38:0 Successfully wrote value to SD card.
+2022-12-10 22:39:0 Reading temperature sensor.
+2022-12-10 22:39:0 Got 14 degrees C.
+2022-12-10 22:39:0 Writing value to SD card.
+2022-12-10 22:39:0 Successfully wrote value to SD card.
+2022-12-10 22:40:0 Reading temperature sensor.
+2022-12-10 22:40:0 Got 14 degrees C.
+2022-12-10 22:40:0 Writing value to SD card.
+2022-12-10 22:40:0 Successfully wrote value to SD card.
+2022-12-10 22:41:0 Reading temperature sensor.
+2022-12-10 22:41:0 Got 14 degrees C.
+2022-12-10 22:41:0 Writing value to SD card.
+2022-12-10 22:41:0 Successfully wrote value to SD card.
+2022-12-10 22:42:0 Reading temperature sensor.
+2022-12-10 22:42:0 Got 14 degrees C.
+2022-12-10 22:42:0 Writing value to SD card.
+2022-12-10 22:42:0 Successfully wrote value to SD card.
+2022-12-10 22:43:0 Reading temperature sensor.
+2022-12-10 22:43:0 Got 14 degrees C.
+2022-12-10 22:43:0 Writing value to SD card.
+2022-12-10 22:43:0 Successfully wrote value to SD card.
+2022-12-10 22:44:0 Reading temperature sensor.
+2022-12-10 22:44:0 Got 14 degrees C.
+2022-12-10 22:44:0 Writing value to SD card.
+2022-12-10 22:44:0 Successfully wrote value to SD card.
+2022-12-10 22:45:0 Reading temperature sensor.
+2022-12-10 22:45:0 Got 14 degrees C.
+2022-12-10 22:45:0 Writing value to SD card.
+2022-12-10 22:45:0 Successfully wrote value to SD card.
+2022-12-10 22:46:0 Reading temperature sensor.
+2022-12-10 22:46:0 Got 14 degrees C.
+2022-12-10 22:46:0 Writing value to SD card.
+2022-12-10 22:46:0 Successfully wrote value to SD card.
+2022-12-10 22:47:0 Reading temperature sensor.
+2022-12-10 22:47:0 Got 15 degrees C.
+2022-12-10 22:47:0 Writing value to SD card.
+2022-12-10 22:47:0 Successfully wrote value to SD card.
+2022-12-10 22:48:0 Reading temperature sensor.
+2022-12-10 22:48:0 Got 15 degrees C.
+2022-12-10 22:48:0 Writing value to SD card.
+2022-12-10 22:48:0 Successfully wrote value to SD card.
+2022-12-10 22:49:0 Reading temperature sensor.
+2022-12-10 22:49:0 Got 14 degrees C.
+2022-12-10 22:49:0 Writing value to SD card.
+2022-12-10 22:49:0 Successfully wrote value to SD card.
+2022-12-10 22:50:0 Reading temperature sensor.
+2022-12-10 22:50:0 Got 15 degrees C.
+2022-12-10 22:50:0 Writing value to SD card.
+2022-12-10 22:50:0 Successfully wrote value to SD card.
+2022-12-10 22:51:0 Reading temperature sensor.
+2022-12-10 22:51:0 Got 15 degrees C.
+2022-12-10 22:51:0 Writing value to SD card.
+2022-12-10 22:51:0 Successfully wrote value to SD card.
+2022-12-10 22:52:0 Reading temperature sensor.
+2022-12-10 22:52:0 Got 15 degrees C.
+2022-12-10 22:52:0 Writing value to SD card.
+2022-12-10 22:52:0 Successfully wrote value to SD card.
+2022-12-10 22:53:0 Reading temperature sensor.
+2022-12-10 22:53:0 Got 15 degrees C.
+2022-12-10 22:53:0 Writing value to SD card.
+2022-12-10 22:53:0 Successfully wrote value to SD card.
+2022-12-10 22:54:0 Reading temperature sensor.
+2022-12-10 22:54:0 Got 15 degrees C.
+2022-12-10 22:54:0 Writing value to SD card.
+2022-12-10 22:54:0 Successfully wrote value to SD card.
+2022-12-10 22:55:0 Reading temperature sensor.
+2022-12-10 22:55:0 Got 15 degrees C.
+2022-12-10 22:55:0 Writing value to SD card.
+2022-12-10 22:55:0 Successfully wrote value to SD card.
+2022-12-10 22:56:0 Reading temperature sensor.
+2022-12-10 22:56:0 Got 15 degrees C.
+2022-12-10 22:56:0 Writing value to SD card.
+2022-12-10 22:56:0 Successfully wrote value to SD card.
+2022-12-10 22:57:0 Reading temperature sensor.
+2022-12-10 22:57:0 Got 15 degrees C.
+2022-12-10 22:57:0 Writing value to SD card.
+2022-12-10 22:57:0 Successfully wrote value to SD card.
+2022-12-10 22:58:0 Reading temperature sensor.
+2022-12-10 22:58:0 Got 15 degrees C.
+2022-12-10 22:58:0 Writing value to SD card.
+2022-12-10 22:58:0 Successfully wrote value to SD card.
+2022-12-10 22:59:0 Reading temperature sensor.
+2022-12-10 22:59:0 Got 15 degrees C.
+2022-12-10 22:59:0 Writing value to SD card.
+2022-12-10 22:59:0 Successfully wrote value to SD card.
+2022-12-10 23:0:0 Reading temperature sensor.
+2022-12-10 23:0:0 Got 15 degrees C.
+2022-12-10 23:0:0 Writing value to SD card.
+2022-12-10 23:0:0 Successfully wrote value to SD card.
+2022-12-10 23:1:0 Reading temperature sensor.
+2022-12-10 23:1:0 Got 15 degrees C.
+2022-12-10 23:1:0 Writing value to SD card.
+2022-12-10 23:1:0 Successfully wrote value to SD card.
+2022-12-10 23:2:0 Reading temperature sensor.
+2022-12-10 23:2:0 Got 15 degrees C.
+2022-12-10 23:2:0 Writing value to SD card.
+2022-12-10 23:2:0 Successfully wrote value to SD card.
+2022-12-10 23:3:0 Reading temperature sensor.
+2022-12-10 23:3:0 Got 15 degrees C.
+2022-12-10 23:3:0 Writing value to SD card.
+2022-12-10 23:3:0 Successfully wrote value to SD card.
+2022-12-10 23:4:0 Reading temperature sensor.
+2022-12-10 23:4:0 Got 15 degrees C.
+2022-12-10 23:4:0 Writing value to SD card.
+2022-12-10 23:4:0 Successfully wrote value to SD card.
+2022-12-10 23:5:0 Reading temperature sensor.
+2022-12-10 23:5:0 Got 15 degrees C.
+2022-12-10 23:5:0 Writing value to SD card.
+2022-12-10 23:5:0 Successfully wrote value to SD card.
+2022-12-10 23:6:0 Reading temperature sensor.
+2022-12-10 23:6:0 Got 15 degrees C.
+2022-12-10 23:6:0 Writing value to SD card.
+2022-12-10 23:6:0 Successfully wrote value to SD card.
+2022-12-10 23:7:0 Reading temperature sensor.
+2022-12-10 23:7:0 Got 15 degrees C.
+2022-12-10 23:7:0 Writing value to SD card.
+2022-12-10 23:7:0 Successfully wrote value to SD card.
+2022-12-10 23:8:0 Reading temperature sensor.
+2022-12-10 23:8:0 Got 15 degrees C.
+2022-12-10 23:8:0 Writing value to SD card.
+2022-12-10 23:8:0 Successfully wrote value to SD card.
+2022-12-10 23:9:0 Reading temperature sensor.
+2022-12-10 23:9:0 Got 15 degrees C.
+2022-12-10 23:9:0 Writing value to SD card.
+2022-12-10 23:9:0 Successfully wrote value to SD card.
+2022-12-10 23:10:0 Reading temperature sensor.
+2022-12-10 23:10:0 Got 15 degrees C.
+2022-12-10 23:10:0 Writing value to SD card.
+2022-12-10 23:10:0 Successfully wrote value to SD card.
+2022-12-10 23:11:0 Reading temperature sensor.
+2022-12-10 23:11:0 Got 15 degrees C.
+2022-12-10 23:11:0 Writing value to SD card.
+2022-12-10 23:11:0 Successfully wrote value to SD card.
+2022-12-10 23:12:0 Reading temperature sensor.
+2022-12-10 23:12:0 Got 15 degrees C.
+2022-12-10 23:12:0 Writing value to SD card.
+2022-12-10 23:12:0 Successfully wrote value to SD card.
+2022-12-10 23:13:0 Reading temperature sensor.
+2022-12-10 23:13:0 Got 15 degrees C.
+2022-12-10 23:13:0 Writing value to SD card.
+2022-12-10 23:13:0 Successfully wrote value to SD card.
+2022-12-10 23:14:0 Reading temperature sensor.
+2022-12-10 23:14:0 Got 15 degrees C.
+2022-12-10 23:14:0 Writing value to SD card.
+2022-12-10 23:14:0 Successfully wrote value to SD card.
+2022-12-10 23:15:0 Reading temperature sensor.
+2022-12-10 23:15:0 Got 15 degrees C.
+2022-12-10 23:15:0 Writing value to SD card.
+2022-12-10 23:15:0 Successfully wrote value to SD card.
+2022-12-10 23:16:0 Reading temperature sensor.
+2022-12-10 23:16:0 Got 15 degrees C.
+2022-12-10 23:16:0 Writing value to SD card.
+2022-12-10 23:16:0 Successfully wrote value to SD card.
+2022-12-10 23:17:0 Reading temperature sensor.
+2022-12-10 23:17:0 Got 15 degrees C.
+2022-12-10 23:17:0 Writing value to SD card.
+2022-12-10 23:17:0 Successfully wrote value to SD card.
+2022-12-10 23:18:0 Reading temperature sensor.
+2022-12-10 23:18:0 Got 15 degrees C.
+2022-12-10 23:18:0 Writing value to SD card.
+2022-12-10 23:18:0 Successfully wrote value to SD card.
+2022-12-10 23:19:0 Reading temperature sensor.
+2022-12-10 23:19:0 Got 15 degrees C.
+2022-12-10 23:19:0 Writing value to SD card.
+2022-12-10 23:19:0 Successfully wrote value to SD card.
+2022-12-10 23:20:0 Reading temperature sensor.
+2022-12-10 23:20:0 Got 15 degrees C.
+2022-12-10 23:20:0 Writing value to SD card.
+2022-12-10 23:20:0 Successfully wrote value to SD card.
+2022-12-10 23:21:0 Reading temperature sensor.
+2022-12-10 23:21:0 Got 15 degrees C.
+2022-12-10 23:21:0 Writing value to SD card.
+2022-12-10 23:21:0 Successfully wrote value to SD card.
+2022-12-10 23:22:0 Reading temperature sensor.
+2022-12-10 23:22:0 Got 15 degrees C.
+2022-12-10 23:22:0 Writing value to SD card.
+2022-12-10 23:22:0 Successfully wrote value to SD card.
+2022-12-10 23:23:0 Reading temperature sensor.
+2022-12-10 23:23:0 Got 15 degrees C.
+2022-12-10 23:23:0 Writing value to SD card.
+2022-12-10 23:23:0 Successfully wrote value to SD card.
